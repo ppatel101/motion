@@ -1,0 +1,27 @@
+[
+  {
+    "key": "intro_updated_at",
+    "copy": "Intro updated on updated_at",
+    "last_modified_time": "2020-11-08T12:54:13.000Z"
+  },
+  {
+    "key": "intro_created_at",
+    "copy": "Intro created on created_at",
+    "last_modified_time": "2020-11-08T12:48:50.000Z"
+  },
+  {
+    "key": "bye",
+    "copy": "Goodbye",
+    "last_modified_time": "2020-11-06T22:49:01.000Z"
+  },
+  {
+    "key": "time",
+    "copy": "It is time",
+    "last_modified_time": "2020-11-08T12:54:28.000Z"
+  },
+  {
+    "key": "greeting",
+    "copy": "hi name, welcome to app!",
+    "last_modified_time": "2020-11-08T12:43:13.000Z"
+  }
+]
